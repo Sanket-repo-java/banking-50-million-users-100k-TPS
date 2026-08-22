@@ -7,6 +7,8 @@ Scalable microservices-based banking application project developed at JPMorgan C
 
 # Key Technologies 
 1.Microservices Architecture for Design for Billion Users: Microservices architecture is a software design approach where an application is built as a collection of small, independent services, each responsible for a specific business capability. each handling specific business logic, built with Spring Boot.
+
 2.Spring Boot: Provides the foundation for building independent, production-ready microservices quickly.Utilizes Spring Cloud components for service discovery (Eureka and Spring Load Balancer), centralized configuration (Spring Cloud Config), and resilient mechanism using Resilience4J.
+
 3.Docker: Spring Boot microservices architectures that use Eureka, Spring Cloud Config, Resilience4J, and Docker are designed to maximize scalability, resilience, and centralized management.
 
